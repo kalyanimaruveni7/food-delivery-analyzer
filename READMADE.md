@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Analyzer (Linked List)
+#  Food Delivery Analyzer (Linked List)
 
 This is a Python mini project using Linked List and Gradio UI.
 
@@ -16,4 +16,5 @@ This is a Python mini project using Linked List and Gradio UI.
 
 ## How to Run
 pip install gradio  
+
 python app.py
